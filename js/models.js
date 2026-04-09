@@ -1,4 +1,3 @@
-// Digitar aqui o código do models.js
 let modelsJson = [
 
     // Objeto 1
